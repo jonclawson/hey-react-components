@@ -1,6 +1,6 @@
 {
   "name": "hey-react-components",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "A reusable React component library",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
