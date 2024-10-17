@@ -77,5 +77,5 @@ export default function Home() {
   );
 } 
 ```
-<img src="preview.png" alt="preview" />
+
 ![preview](preview.png)
